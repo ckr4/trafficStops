@@ -4,4 +4,4 @@ The absence of a uniform reporting system across jurisdictions makes it challeng
 
 Without even the most rudimentary statistics for the population of traffic stops, there is no way to develop a shared understanding of where such outcomes fit within the system as a whole. Of the many missing pieces of information which could inform such an understanding, perhaps the most important is exactly who, demographically speaking, is the subject of these traffic stops. To help bridge this gap, this project utilized the traffic stop data accumulated by the SOPP and detailed annual demographic data for the United States from the U.S. Census Bureau to model the proportions of traffic stop subjects by age, race, and sex at the county level. 
 
-Currently, only the final report and presentation for this project are available, but the code and data used will be uploaded by 1/1/2024.
+Currently, only the final report and presentation for this project are available. Work is ongoing to improve the models and will be uploaded once work is complete.
